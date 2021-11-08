@@ -1,0 +1,26 @@
+header.masthead {
+    opacity: 0.85;
+}
+
+header .header-font {
+    /*background-color: blue;
+    opacity: 0.5;*/
+
+}
+
+header .header_ {
+    height: 100px;
+
+}
+
+header .header_ img {
+    height: 100%;
+}
+
+.rounded-circle {
+    transition:  0.3s;
+}
+
+.rounded-circle:hover {
+    border-radius: 0 !important;
+}
